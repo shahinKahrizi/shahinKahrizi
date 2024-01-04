@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahin Kahrizi</h1>
-<h3 align="center">I started my career as an architect, but after many years, I decided to pursue my personal interest in the computer and tech world. Now, I am a self-educated front-end developer.</h3>
+<h3 align="center">Originally an architect, my professional trajectory took a turn when I decided to delve into the dynamic world of computer and tech. Embarking on this journey in May 2021, my commitment to self-education has transformed me into a skilled front-end developer.</h3>
 
 - 🔭 I’m currently working on [ViraBook](https://virabook.ir/)
 
