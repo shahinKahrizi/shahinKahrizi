@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahin Kahrizi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-- 🔭 I’m currently working on [ACoreX ui library](https://www.acorexui.com/)
+- 🔭 I’m currently working on [ACoreX ui library](https://ui.acorex.io/)
 
 - 📫 How to reach me **kahrizi.1992@gmail.com**
 
